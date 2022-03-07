@@ -1,6 +1,6 @@
 from manim import *
 
-class lengan(LinearTransformationScene):
+class Lengan(LinearTransformationScene):
     def __init__(self):
         LinearTransformationScene.__init__(
             self,
