@@ -9,6 +9,7 @@ create_dir:
 # 
 a:
 	cl /Wall /Fo..\obj\  /Fe..\bin\ src\$(file).$(ext)
+	..\bin\$(file).exe
 
 main:
 	cl /Fo..\obj\  /Fe..\bin\ src\main.cpp
