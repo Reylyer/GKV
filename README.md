@@ -2,7 +2,6 @@
 
 Tugas prak 1 - 1
 ---
-./images/tugas
 ![Shariyl](./images/tugas1_1.png)
 
 Tugas prak 1 - 2
