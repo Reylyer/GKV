@@ -4,7 +4,7 @@ ext = cpp
 lo = truk_wawowalam
 
 love:
-	cl /Wall /Fo..\obj\  /Fe..\bin\ src\$(lo).$(ext)
+	cl /std:c++17 /Wall /Fo..\obj\  /Fe..\bin\ src\$(lo).$(ext)
 	..\bin\$(lo).exe
 
 
